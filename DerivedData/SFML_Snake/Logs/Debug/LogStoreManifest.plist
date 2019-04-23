@@ -5,6 +5,167 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>2806DB4B-F8AA-429B-AC1E-10D6188863A1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2806DB4B-F8AA-429B-AC1E-10D6188863A1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFML_Snake project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFML_Snake</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SFML_Snake</string>
+			<key>timeStartedRecording</key>
+			<real>577735655.72371399</real>
+			<key>timeStoppedRecording</key>
+			<real>577735851.28265905</real>
+			<key>title</key>
+			<string>Debug SFML_Snake</string>
+			<key>uniqueIdentifier</key>
+			<string>2806DB4B-F8AA-429B-AC1E-10D6188863A1</string>
+		</dict>
+		<key>300E443E-3373-43A4-9E4A-4C3F4FF7F94B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>300E443E-3373-43A4-9E4A-4C3F4FF7F94B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFML_Snake project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFML_Snake</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SFML_Snake</string>
+			<key>timeStartedRecording</key>
+			<real>577735523.766451</real>
+			<key>timeStoppedRecording</key>
+			<real>577735538.18837404</real>
+			<key>title</key>
+			<string>Debug SFML_Snake</string>
+			<key>uniqueIdentifier</key>
+			<string>300E443E-3373-43A4-9E4A-4C3F4FF7F94B</string>
+		</dict>
+		<key>5F615C9D-13F8-418F-B151-743B5191E594</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5F615C9D-13F8-418F-B151-743B5191E594.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFML_Snake project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFML_Snake</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SFML_Snake</string>
+			<key>timeStartedRecording</key>
+			<real>577735463.06593704</real>
+			<key>timeStoppedRecording</key>
+			<real>577735497.68098903</real>
+			<key>title</key>
+			<string>Debug SFML_Snake</string>
+			<key>uniqueIdentifier</key>
+			<string>5F615C9D-13F8-418F-B151-743B5191E594</string>
+		</dict>
+		<key>B5EBCE48-5DA5-4979-9AEC-C6E59391E0B2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B5EBCE48-5DA5-4979-9AEC-C6E59391E0B2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFML_Snake project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFML_Snake</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SFML_Snake</string>
+			<key>timeStartedRecording</key>
+			<real>577735573.85257602</real>
+			<key>timeStoppedRecording</key>
+			<real>577735588.18065906</real>
+			<key>title</key>
+			<string>Debug SFML_Snake</string>
+			<key>uniqueIdentifier</key>
+			<string>B5EBCE48-5DA5-4979-9AEC-C6E59391E0B2</string>
+		</dict>
+		<key>FB1EE0F4-0D44-4BFD-9414-DFEF4535AFBF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FB1EE0F4-0D44-4BFD-9414-DFEF4535AFBF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFML_Snake project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFML_Snake</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SFML_Snake</string>
+			<key>timeStartedRecording</key>
+			<real>577735613.02439702</real>
+			<key>timeStoppedRecording</key>
+			<real>577735614.59175003</real>
+			<key>title</key>
+			<string>Debug SFML_Snake</string>
+			<key>uniqueIdentifier</key>
+			<string>FB1EE0F4-0D44-4BFD-9414-DFEF4535AFBF</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

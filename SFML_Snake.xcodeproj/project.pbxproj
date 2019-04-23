@@ -8,6 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		0BC2B130226F89C20025E0FB /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0BC2B12F226F89C20025E0FB /* main.cpp */; };
+		0BC2B13C226F89DB0025E0FB /* libsfml-graphics.2.5.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BC2B137226F89DB0025E0FB /* libsfml-graphics.2.5.1.dylib */; };
+		0BC2B13D226F89DB0025E0FB /* libsfml-network.2.5.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BC2B138226F89DB0025E0FB /* libsfml-network.2.5.1.dylib */; };
+		0BC2B13E226F89DB0025E0FB /* libsfml-system.2.5.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BC2B139226F89DB0025E0FB /* libsfml-system.2.5.1.dylib */; };
+		0BC2B13F226F89DB0025E0FB /* libsfml-window.2.5.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BC2B13A226F89DB0025E0FB /* libsfml-window.2.5.1.dylib */; };
+		0BC2B140226F89DB0025E0FB /* libsfml-audio.2.5.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BC2B13B226F89DB0025E0FB /* libsfml-audio.2.5.1.dylib */; };
+		0BC2B14B226F8A950025E0FB /* Snake.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0BC2B141226F8A940025E0FB /* Snake.cpp */; };
+		0BC2B14C226F8A950025E0FB /* Menu.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0BC2B142226F8A950025E0FB /* Menu.cpp */; };
+		0BC2B14D226F8A950025E0FB /* Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0BC2B143226F8A950025E0FB /* Game.cpp */; };
+		0BC2B14E226F8A950025E0FB /* Collectables.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0BC2B144226F8A950025E0FB /* Collectables.cpp */; };
+		0BC2B14F226F8A950025E0FB /* Segment.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0BC2B146226F8A950025E0FB /* Segment.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +35,21 @@
 /* Begin PBXFileReference section */
 		0BC2B12C226F89C20025E0FB /* SFML_Snake */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SFML_Snake; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BC2B12F226F89C20025E0FB /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		0BC2B137226F89DB0025E0FB /* libsfml-graphics.2.5.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libsfml-graphics.2.5.1.dylib"; path = "../../../../../../../usr/local/Cellar/sfml/2.5.1/lib/libsfml-graphics.2.5.1.dylib"; sourceTree = "<group>"; };
+		0BC2B138226F89DB0025E0FB /* libsfml-network.2.5.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libsfml-network.2.5.1.dylib"; path = "../../../../../../../usr/local/Cellar/sfml/2.5.1/lib/libsfml-network.2.5.1.dylib"; sourceTree = "<group>"; };
+		0BC2B139226F89DB0025E0FB /* libsfml-system.2.5.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libsfml-system.2.5.1.dylib"; path = "../../../../../../../usr/local/Cellar/sfml/2.5.1/lib/libsfml-system.2.5.1.dylib"; sourceTree = "<group>"; };
+		0BC2B13A226F89DB0025E0FB /* libsfml-window.2.5.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libsfml-window.2.5.1.dylib"; path = "../../../../../../../usr/local/Cellar/sfml/2.5.1/lib/libsfml-window.2.5.1.dylib"; sourceTree = "<group>"; };
+		0BC2B13B226F89DB0025E0FB /* libsfml-audio.2.5.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libsfml-audio.2.5.1.dylib"; path = "../../../../../../../usr/local/Cellar/sfml/2.5.1/lib/libsfml-audio.2.5.1.dylib"; sourceTree = "<group>"; };
+		0BC2B141226F8A940025E0FB /* Snake.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Snake.cpp; sourceTree = "<group>"; };
+		0BC2B142226F8A950025E0FB /* Menu.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Menu.cpp; sourceTree = "<group>"; };
+		0BC2B143226F8A950025E0FB /* Game.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Game.cpp; sourceTree = "<group>"; };
+		0BC2B144226F8A950025E0FB /* Collectables.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Collectables.cpp; sourceTree = "<group>"; };
+		0BC2B145226F8A950025E0FB /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Game.h; sourceTree = "<group>"; };
+		0BC2B146226F8A950025E0FB /* Segment.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Segment.cpp; sourceTree = "<group>"; };
+		0BC2B147226F8A950025E0FB /* Collectables.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Collectables.h; sourceTree = "<group>"; };
+		0BC2B148226F8A950025E0FB /* Segment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Segment.h; sourceTree = "<group>"; };
+		0BC2B149226F8A950025E0FB /* Snake.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Snake.h; sourceTree = "<group>"; };
+		0BC2B14A226F8A950025E0FB /* Menu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Menu.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +57,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0BC2B13C226F89DB0025E0FB /* libsfml-graphics.2.5.1.dylib in Frameworks */,
+				0BC2B13D226F89DB0025E0FB /* libsfml-network.2.5.1.dylib in Frameworks */,
+				0BC2B13E226F89DB0025E0FB /* libsfml-system.2.5.1.dylib in Frameworks */,
+				0BC2B13F226F89DB0025E0FB /* libsfml-window.2.5.1.dylib in Frameworks */,
+				0BC2B140226F89DB0025E0FB /* libsfml-audio.2.5.1.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -43,6 +73,7 @@
 			children = (
 				0BC2B12E226F89C20025E0FB /* SFML_Snake */,
 				0BC2B12D226F89C20025E0FB /* Products */,
+				0BC2B136226F89DA0025E0FB /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,8 +89,30 @@
 			isa = PBXGroup;
 			children = (
 				0BC2B12F226F89C20025E0FB /* main.cpp */,
+				0BC2B144226F8A950025E0FB /* Collectables.cpp */,
+				0BC2B147226F8A950025E0FB /* Collectables.h */,
+				0BC2B143226F8A950025E0FB /* Game.cpp */,
+				0BC2B145226F8A950025E0FB /* Game.h */,
+				0BC2B142226F8A950025E0FB /* Menu.cpp */,
+				0BC2B14A226F8A950025E0FB /* Menu.h */,
+				0BC2B146226F8A950025E0FB /* Segment.cpp */,
+				0BC2B148226F8A950025E0FB /* Segment.h */,
+				0BC2B141226F8A940025E0FB /* Snake.cpp */,
+				0BC2B149226F8A950025E0FB /* Snake.h */,
 			);
 			path = SFML_Snake;
+			sourceTree = "<group>";
+		};
+		0BC2B136226F89DA0025E0FB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0BC2B13B226F89DB0025E0FB /* libsfml-audio.2.5.1.dylib */,
+				0BC2B137226F89DB0025E0FB /* libsfml-graphics.2.5.1.dylib */,
+				0BC2B138226F89DB0025E0FB /* libsfml-network.2.5.1.dylib */,
+				0BC2B139226F89DB0025E0FB /* libsfml-system.2.5.1.dylib */,
+				0BC2B13A226F89DB0025E0FB /* libsfml-window.2.5.1.dylib */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -118,7 +171,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0BC2B14E226F8A950025E0FB /* Collectables.cpp in Sources */,
+				0BC2B14C226F8A950025E0FB /* Menu.cpp in Sources */,
+				0BC2B14B226F8A950025E0FB /* Snake.cpp in Sources */,
 				0BC2B130226F89C20025E0FB /* main.cpp in Sources */,
+				0BC2B14D226F8A950025E0FB /* Game.cpp in Sources */,
+				0BC2B14F226F8A950025E0FB /* Segment.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +298,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					/usr/local/Cellar/sfml/2.5.1/include,
+					"$(SRCROOT)/include",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/usr/local/Cellar/sfml/2.5.1/lib,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -248,6 +314,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				HEADER_SEARCH_PATHS = (
+					/usr/local/Cellar/sfml/2.5.1/include,
+					"$(SRCROOT)/include",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/usr/local/Cellar/sfml/2.5.1/lib,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
